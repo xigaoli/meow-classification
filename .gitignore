@@ -1,4 +1,3 @@
-#exclude large dataset
-data/*
+#exclude large files
 models/*
 .ipynb_checkpoints/*
